@@ -6,7 +6,7 @@ SCREEN_WIDTH = 800  # 게임 화면의 너비
 SCREEN_HEIGHT = 600 # 게임 화면의 높이
 
 # 미로 설정
-TILE_SIZE = 50      # 미로 타일 하나의 크기 (픽셀)
+TILE_SIZE = 50      # 미로 타일 하나의 크기 (픽셀)2050
 MAZE_WIDTH = SCREEN_WIDTH // TILE_SIZE  # 미로의 가로 타일 개수
 MAZE_HEIGHT = SCREEN_HEIGHT // TILE_SIZE # 미로의 세로 타일 개수
 
